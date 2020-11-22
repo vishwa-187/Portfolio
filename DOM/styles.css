@@ -1,0 +1,12 @@
+.invisible{
+  visibility: hidden;
+}
+.huge{
+  color: #b32412;
+  font-size: 10rem;
+
+}
+/* .huge:hover{
+  color:#dd6347;
+  font-size: 20rem;
+} */
